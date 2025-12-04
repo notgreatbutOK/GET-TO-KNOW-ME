@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Working on my skills<br><br> 📱 Currently exploring web development & building useful tools for students<br><br>🔧 Tech Stack<br><br>Languages: python,java(basic)<br><br>Data: Excel, Python (for analytics), SQL<br><br>Tools: Git, GitHub, VS Code<br><br>
+🌱 Working on my skills<br><br> 📱 Currently exploring web development <br><br>🔧 Tech Stack<br><br>Languages: python,java(basic)<br><br>Data: Excel, Python (for analytics), SQL<br><br>Tools: Git, GitHub, VS Code<br><br>
 
 
 ## 🌐 Socials:
